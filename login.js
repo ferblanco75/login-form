@@ -10,6 +10,7 @@ function validate() {
     }
 }
 
+
 let button = document.getElementById("button");
 
 button.addEventListener("click", (e)=> {
